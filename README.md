@@ -38,6 +38,9 @@ CAD geometry rather than from the parameters that authored it.
 
 ### Currently
 
+**Junior Research Fellow — Space Dynamics and Flight Control Laboratory (SDFCL), Department
+of Aerospace Engineering, IIT Kanpur.**
+
 Extending the task-constrained workspace analysis toward a thesis chapter, and taking the
 ARM-450 design from verified geometry to printed, measured hardware — the predictions are
 already recorded, which is the point.
